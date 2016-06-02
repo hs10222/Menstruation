@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">大姨妈</string>
+    <array name="tab_menu">
+        <item>首页</item>
+        <item>日历</item>
+        <item>添加</item>
+        <item>通知</item>
+        <item>设置</item>
+    </array>
+    <string name="setting_title">设置</string>
+    <string name="sing_up">登录/注册</string>
+    <array name="settings_name">
+        <item>状态</item>
+        <item>通知</item>
+        <item>密码</item>
+        <item>语言</item>
+        <item>主题</item>
+        <item>支持</item>
+    </array>
+    <array name="calendar_title">
+        <item>日</item>
+        <item>一</item>
+        <item>二</item>
+        <item>三</item>
+        <item>四</item>
+        <item>五</item>
+        <item>六</item>
+    </array>
+    <string name="ovulatory">排卵</string>
+    <string name="period">月经</string>
+    <string name="period_start">月经开始</string>
+    <string name="period_stop">月经停止</string>
+    <string name="make_baby">爱爱</string>
+    <string name="bleeding">流量</string>
+    <string name="dysmenorrhea">痛经</string>
+    <string name="sympton">症状</string>
+    <string name="habit">健康习惯</string>
+    <string name="mood">情绪</string>
+    <string name="private_part">私处</string>
+    <string name="white_fluid">白带</string>
+    <string name="temperature">体温</string>
+</resources>

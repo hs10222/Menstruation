@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Menstruation</string>
+    <array name="tab_menu">
+        <item>Home</item>
+        <item>Calendar</item>
+        <item>Add</item>
+        <item>Notification</item>
+        <item>Settings</item>
+    </array>
+    <string name="setting_title">Settings</string>
+    <string name="sing_up">Sign up/Sign in</string>
+    <array name="settings_name">
+        <item>Status</item>
+        <item>Notification</item>
+        <item>Passcode</item>
+        <item>Language</item>
+        <item>Theme</item>
+        <item>Support</item>
+    </array>
+    <array name="calendar_title">
+        <item>S</item>
+        <item>M</item>
+        <item>T</item>
+        <item>W</item>
+        <item>T</item>
+        <item>F</item>
+        <item>S</item>
+    </array>
+    <string name="ovulatory">Ovulatory</string>
+    <string name="period">Period</string>
+    <string name="period_start">Period Start</string>
+    <string name="period_stop">Period Stop</string>
+    <string name="make_baby">Make Baby</string>
+    <string name="bleeding">Bleeding</string>
+    <string name="dysmenorrhea">Dysmenorrhea</string>
+    <string name="sympton">Sympton</string>
+    <string name="habit">Healthy Habit</string>
+    <string name="mood">Mood</string>
+    <string name="private_part">Private Part</string>
+    <string name="white_fluid">White Fluid</string>
+    <string name="temperature">Temperature</string>
+</resources>
